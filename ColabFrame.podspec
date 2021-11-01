@@ -1,19 +1,28 @@
 
-Pod::Spec.new do |spec|
+PPod::Spec.new do |s|
 
-spec.name = "ColabFrame"
-spec.version = "1.0.2"
-spec.summary = "A short new initiative."
-spec.description = "New Project"
-spec.homepage = "https://github.com/smartconnecttechnologies/"
-spec.license = "MIT"
-spec.author = { "smartconnecttechnologies" => "smartconnectt.technologies@gmail.com" }
-spec.swift_version = "5"
-spec.ios.deployment_target = '12.0'
 
-spec.source = { :git => "https://github.com/smartconnecttechnologies/ColabFrame.git", :tag => "#{spec.version}" }
-spec.exclude_files = "Classes/Exclude"
-spec.dependency "Socket.IO-Client-Swift", "~> 15.2.0"
+
+s.name = "ColabFrame"
+s.version = "1.0.3"
+s.summary = "Colab"
+s.description = <<-DESC
+This is description of colab chat
+DESC
+
+
+
+s.homepage = "https://github.com/smartconnecttechnologies"
+s.license = { :type => "MIT", :file => "license" }
+s.author = { "smartconnecttechnologies" => "smartconnectt.technologies@gmail.com" }
+s.swift_version = "5"
+s.ios.deployment_target = '12.0'
+s.source = { :http => 'https://www.dropbox.com/s/cvpci635am8q9ig/ColabChat.zip?dl=1' }
+s.exclude_files = "Classes/Exclude"
+
+
+
+s.dependency "Socket.IO-Client-Swift", "~> 15.2.0"
 
 
 
