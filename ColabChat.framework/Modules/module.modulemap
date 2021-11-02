@@ -1,4 +1,0 @@
-framework module ColabChat {
-  header "ColabChat-Swift.h"
-  requires objc
-}
