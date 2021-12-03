@@ -1,0 +1,11 @@
+framework module ColabChat {
+  umbrella header "ColabChat.h"
+
+  export *
+  module * { export * }
+}
+
+module ColabChat.Swift {
+    header "ColabChat-Swift.h"
+    requires objc
+}
