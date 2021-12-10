@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		HxnYSY31rs+gvTLF1jYk1UAzh4g=
+		vifDBmZJpUmwqG0fnZvLZD9kV7Q=
 		</data>
 		<key>BottomSheet.nib</key>
 		<data>
-		vwT1E8fCMoFSKljuVu3kthBBhsc=
+		HzM3RvPN4Pp7U6kMun6wlCEpqbk=
 		</data>
 		<key>BtnCollectionCell.nib/objects-12.3+.nib</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>ChatView.nib</key>
 		<data>
-		Z43OCBsPf3fIz5CXPpVgIBXojAE=
+		TcxpHXdaZtR4mi9TsMw6bpTUGuM=
 		</data>
 		<key>EndChatView.nib</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Headers/ColabChat-Swift.h</key>
 		<data>
-		aVwk8TeU97FXN7aGpKwYRiQy/e8=
+		zZp3/bRbtosbbuvPUMfcWRZATYg=
 		</data>
 		<key>Headers/ColabChat.h</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		F3NW8tSFhg7KlzBQqX+xr6ZK4T4=
+		UDK+/oFZFbJjeQu41JpzVrBhb/w=
 		</data>
 		<key>LinksCell.nib</key>
 		<data>
@@ -74,27 +74,27 @@
 		</data>
 		<key>Modules/ColabChat.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		KAEw6J+S3RKsm7pICFtm1ZvT9Bw=
+		UDDAhK+XCSa3f/bghhc/R8sxbBI=
 		</data>
 		<key>Modules/ColabChat.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		KAEw6J+S3RKsm7pICFtm1ZvT9Bw=
+		UDDAhK+XCSa3f/bghhc/R8sxbBI=
 		</data>
 		<key>Modules/ColabChat.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		b1/9FbS6ScCGOwMyncBkCkDdI+0=
+		EagGqf3pkwC8vkAOwpxTTbOMyZY=
 		</data>
 		<key>Modules/ColabChat.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		WUipGq7SgQPuSilnSalXGHR6jDY=
+		du+28uN0eydn6WA6KW18CXlDlbo=
 		</data>
 		<key>Modules/ColabChat.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		b1/9FbS6ScCGOwMyncBkCkDdI+0=
+		EagGqf3pkwC8vkAOwpxTTbOMyZY=
 		</data>
 		<key>Modules/ColabChat.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		WUipGq7SgQPuSilnSalXGHR6jDY=
+		du+28uN0eydn6WA6KW18CXlDlbo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -123,14 +123,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			goPE+CsZiJw8lvRAH19o1UYZwZL99szDop+Os81Gejs=
+			p1uHBzsSqAT683P5tA2iJkCwzDvtiC/YexUJxm4K8LA=
 			</data>
 		</dict>
 		<key>BottomSheet.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Rb6RzI3NneJGsQdz+40HzOuI1YI7ohcUGTOvan7Pv7I=
+			TMjqXvzpktV6FBZO0Cjf5IhKxdEKeuO31RsogvRCPTs=
 			</data>
 		</dict>
 		<key>BtnCollectionCell.nib/objects-12.3+.nib</key>
@@ -165,7 +165,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gjh6RFoReJD9Rx1HawoycxSEHYPscmJdyZDZxeAQSK8=
+			KQLORwyRd1WxrqVwNEpdPhVwGONFlR+/a0oER2961io=
 			</data>
 		</dict>
 		<key>EndChatView.nib</key>
@@ -179,7 +179,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5eAXqTGOEZOwS9+KaEZkzaFpgGVegFUhA+R+oCe226I=
+			KY5XnoM4aFRrW1ElIvve/sibLynh4lf7MNHUdV4TTDs=
 			</data>
 		</dict>
 		<key>Headers/ColabChat.h</key>
@@ -235,42 +235,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eUw92GHhr8ByGlaM9XLvNK09govmV3jxMIkgPzHsJI8=
+			7Op2lk82bcNIlepBYjN7pz/mnbTvcqnayjPnFshNP10=
 			</data>
 		</dict>
 		<key>Modules/ColabChat.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eUw92GHhr8ByGlaM9XLvNK09govmV3jxMIkgPzHsJI8=
+			7Op2lk82bcNIlepBYjN7pz/mnbTvcqnayjPnFshNP10=
 			</data>
 		</dict>
 		<key>Modules/ColabChat.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZXYcukbeT503FiedoznsXWPaNZoylrNEwwmuBSe0V2Q=
+			ltgm8wJ/K3KLZYBxyEWQCCoaKSqJMQcChwlcrW8c7Ic=
 			</data>
 		</dict>
 		<key>Modules/ColabChat.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1dGqeMUlIuM73tmskqsFXueJDhTt+9lq1z08piLDcB0=
+			ccKdMmJrTSJCkGWeti8s9+yie7+Zon2GAXkNuRdk0kw=
 			</data>
 		</dict>
 		<key>Modules/ColabChat.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZXYcukbeT503FiedoznsXWPaNZoylrNEwwmuBSe0V2Q=
+			ltgm8wJ/K3KLZYBxyEWQCCoaKSqJMQcChwlcrW8c7Ic=
 			</data>
 		</dict>
 		<key>Modules/ColabChat.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1dGqeMUlIuM73tmskqsFXueJDhTt+9lq1z08piLDcB0=
+			ccKdMmJrTSJCkGWeti8s9+yie7+Zon2GAXkNuRdk0kw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
