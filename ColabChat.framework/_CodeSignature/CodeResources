@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		8cnRk9sOShPlCYqz7GwF/YorMGc=
+		HxnYSY31rs+gvTLF1jYk1UAzh4g=
 		</data>
 		<key>BottomSheet.nib</key>
 		<data>
-		UPCk0p5DPZNBKkM/+hxzbRIMMMI=
+		vwT1E8fCMoFSKljuVu3kthBBhsc=
 		</data>
 		<key>BtnCollectionCell.nib/objects-12.3+.nib</key>
 		<data>
@@ -24,9 +24,13 @@
 		<data>
 		fxcrG483yHvjx3mz/lyewbazsDI=
 		</data>
+		<key>ChatBotView.nib</key>
+		<data>
+		apjMUx9oyVv/Ex9NXZJ5oqWI3vE=
+		</data>
 		<key>ChatView.nib</key>
 		<data>
-		V6Z9/MUpZK4EnsnWkKgdKsWPu4w=
+		Z43OCBsPf3fIz5CXPpVgIBXojAE=
 		</data>
 		<key>EndChatView.nib</key>
 		<data>
@@ -34,7 +38,7 @@
 		</data>
 		<key>Headers/ColabChat-Swift.h</key>
 		<data>
-		uxVYtXpGEK8FZTmZegDNt3wEltM=
+		aVwk8TeU97FXN7aGpKwYRiQy/e8=
 		</data>
 		<key>Headers/ColabChat.h</key>
 		<data>
@@ -46,7 +50,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		UDK+/oFZFbJjeQu41JpzVrBhb/w=
+		F3NW8tSFhg7KlzBQqX+xr6ZK4T4=
 		</data>
 		<key>LinksCell.nib</key>
 		<data>
@@ -70,27 +74,27 @@
 		</data>
 		<key>Modules/ColabChat.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		H0xZJ6qcxppJLYjMn7ehVMeUnVo=
+		KAEw6J+S3RKsm7pICFtm1ZvT9Bw=
 		</data>
 		<key>Modules/ColabChat.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		H0xZJ6qcxppJLYjMn7ehVMeUnVo=
+		KAEw6J+S3RKsm7pICFtm1ZvT9Bw=
 		</data>
 		<key>Modules/ColabChat.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		EagGqf3pkwC8vkAOwpxTTbOMyZY=
+		b1/9FbS6ScCGOwMyncBkCkDdI+0=
 		</data>
 		<key>Modules/ColabChat.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		OLzNYit4W5umWNszEJ4AlSsdZMk=
+		WUipGq7SgQPuSilnSalXGHR6jDY=
 		</data>
 		<key>Modules/ColabChat.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		EagGqf3pkwC8vkAOwpxTTbOMyZY=
+		b1/9FbS6ScCGOwMyncBkCkDdI+0=
 		</data>
 		<key>Modules/ColabChat.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		OLzNYit4W5umWNszEJ4AlSsdZMk=
+		WUipGq7SgQPuSilnSalXGHR6jDY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -119,14 +123,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JqHWOVa6TO9Nor8uPUtmLQ+/sxlWtqNoAj7fWwaR7Jo=
+			goPE+CsZiJw8lvRAH19o1UYZwZL99szDop+Os81Gejs=
 			</data>
 		</dict>
 		<key>BottomSheet.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KpYYBLW/r1S/pYyXgFS/WnQK3Okj+W/GrpBeRhZRU6I=
+			Rb6RzI3NneJGsQdz+40HzOuI1YI7ohcUGTOvan7Pv7I=
 			</data>
 		</dict>
 		<key>BtnCollectionCell.nib/objects-12.3+.nib</key>
@@ -150,11 +154,18 @@
 			WrPF0PZ6KxE1pjOQlN5xbCHpbE//mfp/E8e9AUAmX+E=
 			</data>
 		</dict>
+		<key>ChatBotView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RFwNS3NbHkYa8cfbN3r2ko1vPbawaNFGJYndmcEQCHU=
+			</data>
+		</dict>
 		<key>ChatView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yeD2SJb2tTPrhPRiaw9pN+Ls0hd2RkEO2ByuCpTL7Mg=
+			gjh6RFoReJD9Rx1HawoycxSEHYPscmJdyZDZxeAQSK8=
 			</data>
 		</dict>
 		<key>EndChatView.nib</key>
@@ -168,7 +179,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KymYwbnt+hF0r5MsGyD7LsDijO7Dm2xalWnQVqEAKTs=
+			5eAXqTGOEZOwS9+KaEZkzaFpgGVegFUhA+R+oCe226I=
 			</data>
 		</dict>
 		<key>Headers/ColabChat.h</key>
@@ -224,42 +235,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			74usMRO6vTUOCdEijSkRJzSb/pTHbizPLjK6MZAcAmQ=
+			eUw92GHhr8ByGlaM9XLvNK09govmV3jxMIkgPzHsJI8=
 			</data>
 		</dict>
 		<key>Modules/ColabChat.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			74usMRO6vTUOCdEijSkRJzSb/pTHbizPLjK6MZAcAmQ=
+			eUw92GHhr8ByGlaM9XLvNK09govmV3jxMIkgPzHsJI8=
 			</data>
 		</dict>
 		<key>Modules/ColabChat.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ltgm8wJ/K3KLZYBxyEWQCCoaKSqJMQcChwlcrW8c7Ic=
+			ZXYcukbeT503FiedoznsXWPaNZoylrNEwwmuBSe0V2Q=
 			</data>
 		</dict>
 		<key>Modules/ColabChat.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uoQuuqRWxWd9L9kUGwKKzAQk4QK8j/vr4Wk/2j+TbZA=
+			1dGqeMUlIuM73tmskqsFXueJDhTt+9lq1z08piLDcB0=
 			</data>
 		</dict>
 		<key>Modules/ColabChat.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ltgm8wJ/K3KLZYBxyEWQCCoaKSqJMQcChwlcrW8c7Ic=
+			ZXYcukbeT503FiedoznsXWPaNZoylrNEwwmuBSe0V2Q=
 			</data>
 		</dict>
 		<key>Modules/ColabChat.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uoQuuqRWxWd9L9kUGwKKzAQk4QK8j/vr4Wk/2j+TbZA=
+			1dGqeMUlIuM73tmskqsFXueJDhTt+9lq1z08piLDcB0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
